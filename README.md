@@ -4,4 +4,6 @@ python-drupal-entities
 vaporware: get drupal entities in python
 
 
-using https://www.drupal.org/project/restws
+for d7
+
+using https://www.drupal.org/project/restws (will be in d8 core)
